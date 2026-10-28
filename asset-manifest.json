@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projeto-biscoito-da-sorte/static/css/main.318544b5.css",
+    "main.js": "/projeto-biscoito-da-sorte/static/js/main.ce8af47b.js",
+    "static/js/453.35732811.chunk.js": "/projeto-biscoito-da-sorte/static/js/453.35732811.chunk.js",
+    "static/media/biscoito.png": "/projeto-biscoito-da-sorte/static/media/biscoito.10574f4adcfea1c07e1c.png",
+    "index.html": "/projeto-biscoito-da-sorte/index.html",
+    "main.318544b5.css.map": "/projeto-biscoito-da-sorte/static/css/main.318544b5.css.map",
+    "main.ce8af47b.js.map": "/projeto-biscoito-da-sorte/static/js/main.ce8af47b.js.map",
+    "453.35732811.chunk.js.map": "/projeto-biscoito-da-sorte/static/js/453.35732811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.318544b5.css",
+    "static/js/main.ce8af47b.js"
+  ]
+}
