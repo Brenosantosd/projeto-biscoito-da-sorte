@@ -1,0 +1,48 @@
+.conteiner{ display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     width: 100%;
+
+}
+
+.biscoito {
+       width: 250px;
+       height: 250px;
+       margin-top: 10px;
+       margin-bottom: 25px
+}
+
+.titulo {
+
+       font-style: italic;
+       font-size: 50px;
+}
+
+
+.botao {
+
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(182, 180, 180, 0.435);
+    margin-bottom: 20px;
+    
+
+}
+
+.botao:hover {
+
+  background-color: #DB8C36;
+  color: white;
+
+
+}
+
+.textoFrase {
+
+      color: brown;
+      font-size: 25px;
+      text-align: center;
+}
+
